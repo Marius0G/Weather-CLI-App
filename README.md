@@ -23,3 +23,4 @@ cd weather-cli-app
 cargo run
 ```
 Note: You'll need to provide your own OpenWeatherMap API key in the Connection struct.
+![image](https://github.com/user-attachments/assets/43f77b98-7c35-4c61-9106-8a9641083fe6)
