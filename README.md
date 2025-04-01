@@ -1,6 +1,6 @@
 # Weather CLI App
 
-A terminal-based weather application built with Rust that displays real-time weather information for multiple cities using a text-based user interface.
+A terminal-based weather application built with Rust at Rust Ip Workshop UPB that displays real-time weather information for multiple cities using a text-based user interface.
 
 ## Features
 
