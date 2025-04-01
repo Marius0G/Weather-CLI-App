@@ -10,7 +10,7 @@ pub struct Connection {
 impl Connection {
     pub fn new() -> AppResult<Self> {
         Ok(Self {
-            api_key: "8c1e6c9d40c2c471f544e4bd99757965".to_string(),
+            api_key: "".to_string(),
         })
     }
 
